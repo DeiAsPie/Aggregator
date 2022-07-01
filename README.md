@@ -17,16 +17,17 @@ The code can also be used as a substitute for all sorts of applications and the 
 
 The code will mutable and updated regularly in order to maintain the code free of any sorts of problems although the creator of code takes no responsibility whatsoever of how the user chose to run the code, for what purposes or on what devices and shall not be liable for providing any help in case things do not work as intended if the use of some other services remains in the domain of direct effect of the program execution.
 
+## When user choose to save into Google Sheet:
+
 ![image](https://user-images.githubusercontent.com/93835541/176898624-7398d51b-7c92-4379-9c95-3e6dba94cd84.png)
 ![image](https://user-images.githubusercontent.com/93835541/176898703-057696e7-1d39-4678-af68-52748732b998.png)
 
-When user choose to save into Google Sheet:
+## When user choose to save into device:
 
 ![image](https://user-images.githubusercontent.com/93835541/176898772-80810c61-d82f-4eda-a4fa-3035fb6e76dc.png)
 ![image](https://user-images.githubusercontent.com/93835541/176898779-c677ac40-66ca-41f2-94b1-fc983f0fc028.png)
 ![image](https://user-images.githubusercontent.com/93835541/176898801-bc58136b-5d16-4204-a108-3e2737bc3bd2.png)
 
-When user choose to save into device:
 
 ## Modules Used:
 ### Beautiful Soup:
